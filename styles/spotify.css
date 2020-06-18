@@ -5,7 +5,7 @@
 } /* yeah i need normalize */
 
 .contenedor {
-    width: 99%;
+    width: 90%;
     margin: auto;
 }
 
@@ -34,8 +34,8 @@
     color: white;
     text-decoration: none;
     font-family: 'Fredoka One', cursive;
-    text-transform: uppercase; /* mayusculas */ 
-    letter-spacing: 5px; /* separacion de letras */ 
+    text-transform: uppercase; 
+    letter-spacing: 5px; 
 }
 
 .portada .descripcion {
@@ -75,7 +75,7 @@ p .duki {
     font-family: 'Hind Vadodara', sans-serif;
     font-size: 18px;
   }
-
+/* just ignore 
   .button2 {
     background-color: black;
     border: none;
@@ -92,4 +92,4 @@ p .duki {
     border-radius: 50%;
     transition: .3s ease all;
   }
-
+*/
