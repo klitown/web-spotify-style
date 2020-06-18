@@ -12,4 +12,8 @@
 
 - Made purely from 0
 
+You can view the inspiration here: https://ibb.co/VpTVZRW
+
+And the final result: https://ibb.co/Ny91V9g (yeah, i like Duki :P)
+
 That's it.
