@@ -2,7 +2,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-}
+} /* yeah i need normalize */
 
 .contenedor {
     width: 99%;
